@@ -1,11 +1,13 @@
-Objective :  
+# E-commerce data analysis
+---
+# Objective :  
 The  data sets were provided by our client (one of leading eCommerce company). This data is about customer behavior which contains data of
 multiple user events. The duration of the data for two months.
 
-Summary :
+# Summary :
 Designed Dashboard on price variations, traffic patterns, and brand activities using Power BI. 
 
-Datsaets:
+# Datsaets:
 1. Sales_Data_Ecommerce : The entire customer behavior data
 2. Promotion: This is promotion data set of special promotions for that day. One product will be promoted in first page of app/website. In addition to that
 there are many promotions running however the data is limited special promotion.
